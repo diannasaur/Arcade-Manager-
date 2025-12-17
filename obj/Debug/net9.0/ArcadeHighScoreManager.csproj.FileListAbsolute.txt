@@ -1,0 +1,15 @@
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ArcadeHighScoreManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ArcadeHighScoreManager.AssemblyInfoInputs.cache
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ArcadeHighScoreManager.AssemblyInfo.cs
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ArcadeHighScoreManager.csproj.CoreCompileInputs.cache
+C:\Users\diana\CS260\ArcadeHighScoreManager\bin\Debug\net9.0\ArcadeHighScoreManager.exe
+C:\Users\diana\CS260\ArcadeHighScoreManager\bin\Debug\net9.0\ArcadeHighScoreManager.deps.json
+C:\Users\diana\CS260\ArcadeHighScoreManager\bin\Debug\net9.0\ArcadeHighScoreManager.runtimeconfig.json
+C:\Users\diana\CS260\ArcadeHighScoreManager\bin\Debug\net9.0\ArcadeHighScoreManager.dll
+C:\Users\diana\CS260\ArcadeHighScoreManager\bin\Debug\net9.0\ArcadeHighScoreManager.pdb
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ArcadeHighScoreManager.dll
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\refint\ArcadeHighScoreManager.dll
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ArcadeHighScoreManager.pdb
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ArcadeHighScoreManager.genruntimeconfig.cache
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ref\ArcadeHighScoreManager.dll
+C:\Users\diana\CS260\ArcadeHighScoreManager\obj\Debug\net9.0\ArcadeHighScoreManager.sourcelink.json

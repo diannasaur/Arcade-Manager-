@@ -1,0 +1,5 @@
+Lara,DragonSlayer,2250
+Zelda,DragonSlayer,1700
+Sonic,SpaceRacer,680
+Samus,SpaceRacer,450
+Mario,RetroPuzzle,180
